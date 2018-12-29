@@ -1,0 +1,12 @@
+<JGA020_13mm76_Type93_double_lod3.model>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.016298 -0.000100 -0.042379	</min>
+		<max>	0.018148 0.076249 0.087273	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA020_13mm76_Type93_double_lod3.model>

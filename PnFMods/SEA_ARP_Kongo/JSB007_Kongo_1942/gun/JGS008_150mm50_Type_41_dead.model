@@ -1,0 +1,13 @@
+<JGS008_150mm50_Type_41_dead.model>
+	<extent>	5.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGS008_150mm50_Type_41_dead_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.088197 -0.000867 -0.088212	</min>
+		<max>	0.088226 0.140121 0.366679	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGS008_150mm50_Type_41_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGS008_150mm50_Type_41_dead.model>

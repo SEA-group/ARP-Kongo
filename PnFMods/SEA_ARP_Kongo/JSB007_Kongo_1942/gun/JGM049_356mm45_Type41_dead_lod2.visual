@@ -1,0 +1,38 @@
+<JGM049_356mm45_Type41_dead_lod2.visual>
+	<boundingBox>
+		<min>	-0.292055 -0.000000 -0.452850	</min>
+		<max>	0.292055 0.193545 0.992868	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	JGM049_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JGM049_dead	</node>
+		<geometry>
+			<vertices>	JGM049_dead_lod2Shape.vertices	</vertices>
+			<primitive>	JGM049_dead_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGM049_356mm45_Type41_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGM049_356mm45_Type41_dead_lod2.visual>

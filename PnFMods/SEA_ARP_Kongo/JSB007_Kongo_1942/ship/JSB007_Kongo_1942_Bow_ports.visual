@@ -1,0 +1,168 @@
+<JSB007_Kongo_1942_Bow_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MP_JTB0332	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000006 0.477915 6.246463 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM033_Roller_Fairled	</identifier>
+				<transform>
+					<row0>	0.274892 0.000000 -0.961475 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.961475 0.000000 0.274892 0.000000	</row2>
+					<row3>	0.134401 0.492678 7.094276 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0335	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.029000 0.465684 5.231479 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0329	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000003 0.434238 4.669881 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0330	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.073927 0.466916 5.257976 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0333	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.003027 0.455003 4.807141 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0331	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000332 0.477626 6.179092 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM079_Roller_Fairled	</identifier>
+				<transform>
+					<row0>	-0.276572 0.000000 -0.960993 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.960993 0.000000 -0.276572 0.000000	</row2>
+					<row3>	-0.134412 0.492678 7.094276 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM049_Davit_2	</identifier>
+				<transform>
+					<row0>	0.016703 0.000000 -0.614877 0.000000	</row0>
+					<row1>	0.000000 0.615104 0.000000 0.000000	</row1>
+					<row2>	0.614877 0.000000 0.016703 0.000000	</row2>
+					<row3>	-0.430697 0.386525 4.986578 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0334	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000158 0.484164 4.797818 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000158 1.042965 7.353972 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTB0336	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.455401 4.452418 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM062_Deck_Hatch_11	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.000191 0.467675 5.115874 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM096_Davit_3	</identifier>
+				<transform>
+					<row0>	-0.006484 0.000000 0.615070 0.000000	</row0>
+					<row1>	0.000000 0.615104 0.000000 0.000000	</row1>
+					<row2>	-0.615070 0.000000 -0.006484 0.000000	</row2>
+					<row3>	0.443082 0.386525 4.986578 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 5.703803 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 4.464000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</JSB007_Kongo_1942_Bow_ports.visual>

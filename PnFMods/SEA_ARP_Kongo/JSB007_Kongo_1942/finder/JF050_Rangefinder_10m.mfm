@@ -1,0 +1,17 @@
+<JF050_Rangefinder_10m.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/default_ao.dds	</Texture>
+	</property>
+</JF050_Rangefinder_10m.mfm>

@@ -1,0 +1,13 @@
+<JGA020_13mm76_Type93_double_dead.model>
+	<extent>	1.0000	</extent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double_dead_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.028851 -0.000100 -0.051600	</min>
+		<max>	0.022932 0.054684 0.091192	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA020_13mm76_Type93_double_dead.model>

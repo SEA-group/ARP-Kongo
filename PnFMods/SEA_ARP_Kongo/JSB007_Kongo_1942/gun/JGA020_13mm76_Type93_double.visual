@@ -1,0 +1,65 @@
+<JGA020_13mm76_Type93_double.visual>
+	<boundingBox>
+		<min>	-0.030629 -0.000100 -0.045741	</min>
+		<max>	0.022932 0.087990 0.076113	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Type93	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.005135 0.086421 0.075201 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire2	</identifier>
+				<transform>
+					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.005185 0.086437 0.075194 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+					<row3>	-0.000109 0.086421 0.075201 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Type93	</node>
+		<geometry>
+			<vertices>	Type93Shape.vertices	</vertices>
+			<primitive>	Type93Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGA020_13mm76_Type93_double.visual>
