@@ -38,7 +38,7 @@
 			<primitive>	JGM049_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGM049_356mm45_Type41_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

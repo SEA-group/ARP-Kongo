@@ -29,7 +29,7 @@
 			<primitive>	Type93_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA005_13mm76_Type93_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

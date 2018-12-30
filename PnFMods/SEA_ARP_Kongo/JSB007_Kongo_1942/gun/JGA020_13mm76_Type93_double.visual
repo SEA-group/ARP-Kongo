@@ -56,7 +56,7 @@
 			<primitive>	Type93Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
 				</material>
 			</primitiveGroup>
