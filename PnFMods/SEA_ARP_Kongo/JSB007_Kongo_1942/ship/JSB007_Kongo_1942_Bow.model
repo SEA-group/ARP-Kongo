@@ -1,6 +1,6 @@
 <JSB007_Kongo_1942_Bow.model>
 	<extent>	8.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Bow_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/lods/JSB007_Kongo_1942_Bow_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

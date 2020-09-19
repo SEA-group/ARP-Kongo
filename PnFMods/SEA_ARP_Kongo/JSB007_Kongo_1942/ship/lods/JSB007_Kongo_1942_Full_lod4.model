@@ -1,0 +1,12 @@
+<JSB007_Kongo_1942_Full_lod4.model>
+	<extent>	1000.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.848217 -0.610325 -7.376231	</min>
+		<max>	0.848678 2.174535 7.344726	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/lods/JSB007_Kongo_1942_Full_lod4	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB007_Kongo_1942_Full_lod4.model>

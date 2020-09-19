@@ -1,7 +1,7 @@
 <JD049_Director_Type_94.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/JD049_Director_Type_94_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/lods/JD049_Director_Type_94_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.128172 -0.000000 -0.104179	</min>

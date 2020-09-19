@@ -1,0 +1,8 @@
+<JGM050_356mm45_Type41_lod2.model>
+	<extent>	50.0000	</extent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/lods/JGM050_356mm45_Type41_lod3	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/lods/JGM050_356mm45_Type41_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM050_356mm45_Type41_lod2.model>

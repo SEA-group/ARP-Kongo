@@ -1,6 +1,6 @@
 <JD025_Director_Type_94_Mod1.model>
 	<extent>	6.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/JD025_Director_Type_94_Mod1_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/lods/JD025_Director_Type_94_Mod1_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.161031 0.000000 -0.094539	</min>

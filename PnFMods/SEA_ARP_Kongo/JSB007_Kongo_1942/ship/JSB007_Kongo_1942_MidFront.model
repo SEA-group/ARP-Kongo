@@ -1,6 +1,6 @@
 <JSB007_Kongo_1942_MidFront.model>
 	<extent>	8.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/lods/JSB007_Kongo_1942_MidFront_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-1.014459 -0.695751 -0.110666	</min>

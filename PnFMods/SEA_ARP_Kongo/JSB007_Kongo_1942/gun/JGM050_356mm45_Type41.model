@@ -1,6 +1,6 @@
 <JGM050_356mm45_Type41.model>
 	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGM050_356mm45_Type41_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/lods/JGM050_356mm45_Type41_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>

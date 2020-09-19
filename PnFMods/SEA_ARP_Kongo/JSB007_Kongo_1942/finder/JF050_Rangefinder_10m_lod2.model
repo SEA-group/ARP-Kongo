@@ -1,8 +1,0 @@
-<JF050_Rangefinder_10m_lod2.model>
-	<extent>	12.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m_lod3	</parent>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.5	</exporter>
-	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JF050_Rangefinder_10m_lod2.model>

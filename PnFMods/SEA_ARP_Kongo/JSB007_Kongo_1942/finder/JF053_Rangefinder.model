@@ -1,7 +1,7 @@
 <JF053_Rangefinder.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF053_Rangefinder_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/lods/JF053_Rangefinder_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.165883 0.000000 -0.096858	</min>
