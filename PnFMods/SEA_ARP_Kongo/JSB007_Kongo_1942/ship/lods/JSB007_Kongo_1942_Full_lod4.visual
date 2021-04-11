@@ -29,7 +29,7 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

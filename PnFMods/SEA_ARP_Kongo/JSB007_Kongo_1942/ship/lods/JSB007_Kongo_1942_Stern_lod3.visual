@@ -47,7 +47,7 @@
 			<primitive>	Stern_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -61,7 +61,7 @@
 			<primitive>	Stern_crack_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -75,7 +75,7 @@
 			<primitive>	Stern_crack_MidBack_in_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>

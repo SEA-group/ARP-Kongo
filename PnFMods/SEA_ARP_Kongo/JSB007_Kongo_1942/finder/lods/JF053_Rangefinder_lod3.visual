@@ -65,7 +65,7 @@
 			<primitive>	JF053_Rangefinder_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF053_Rangefinder_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -75,7 +75,7 @@
 			<primitive>	Director_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/JD025_Director_Type_94_Mod1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -89,7 +89,7 @@
 			<primitive>	Director_Type_95_Mod1_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar2	</identifier>
+					<identifier>	SHIPMATX_PBS_radar2	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/director/JD022_Director_Type_95_Mod1_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

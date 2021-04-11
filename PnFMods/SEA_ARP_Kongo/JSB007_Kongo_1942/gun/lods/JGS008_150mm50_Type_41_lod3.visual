@@ -121,7 +121,7 @@
 			<primitive>	turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGS008_150mm50_Type_41_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
