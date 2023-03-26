@@ -83,7 +83,7 @@
 			<primitive>	hullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/aircraft/JAS010_Kawanishi_E7K2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -111,7 +111,7 @@
 			<primitive>	disc_capShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/aircraft/JAS010_Kawanishi_E7K2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -125,7 +125,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/aircraft/JAS010_Kawanishi_E7K2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -139,7 +139,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBSX_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/aircraft/JAS010_Kawanishi_E7K2_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
