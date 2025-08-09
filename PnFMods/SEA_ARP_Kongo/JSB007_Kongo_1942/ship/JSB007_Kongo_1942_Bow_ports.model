@@ -1,12 +1,6 @@
 <JSB007_Kongo_1942_Bow_ports.model>
-	<extent>	200.000000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<materialNames />
-	<visibilityBox>
-		<min>	0.000000 0.000000 7.207333	</min>
-		<max>	0.000000 0.000000 7.207333	</max>
-	</visibilityBox>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Bow_ports	</nodefullVisual>
+	<visual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/ship/JSB007_Kongo_1942_Bow_ports.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JSB007_Kongo_1942_Bow_ports.model>

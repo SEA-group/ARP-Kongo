@@ -1,13 +1,6 @@
 <JF053_Rangefinder.model>
-	<castsShadow>	false	</castsShadow>
-	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/lods/JF053_Rangefinder_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.165883 0.000000 -0.096858	</min>
-		<max>	0.165883 0.144035 0.096858	</max>
-	</visibilityBox>
-	<exporter>	1.5	</exporter>
-	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF053_Rangefinder	</nodefullVisual>
+	<visual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF053_Rangefinder.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JF053_Rangefinder.model>

@@ -1,13 +1,6 @@
 <JGM049_356mm45_Type41.model>
-	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/lods/JGM049_356mm45_Type41_lod1	</parent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<visibilityBox>
-		<min>	-0.301072 -0.000081 -0.432824	</min>
-		<max>	0.301072 0.222416 0.956375	</max>
-	</visibilityBox>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGM049_356mm45_Type41	</nodefullVisual>
+	<visual>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGM049_356mm45_Type41.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JGM049_356mm45_Type41.model>

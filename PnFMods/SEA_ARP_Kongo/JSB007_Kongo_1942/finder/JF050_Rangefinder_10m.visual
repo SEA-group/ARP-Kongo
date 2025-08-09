@@ -1,56 +1,124 @@
 <JF050_Rangefinder_10m.visual>
-	<boundingBox>
-		<min>	-0.348802 -0.000040 -0.218766	</min>
-		<max>	0.348802 0.491492 0.178022	</max>
-	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Rangefinder	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_JD_1	</identifier>
+				<identifier>	Rangefinder	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000002 0.297190 0.002692 1.000000	</row3>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
-				<transform>
-					<row0>	1.645460 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 2.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.645460 0.000000	</row2>
-					<row3>	0.000329 0.461923 -0.208778 1.000000	</row3>
-				</transform>
+				<node>
+					<identifier>	HP_JD_1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000002 0.297190 0.002692 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+					<transform>
+						<row0>	1.645460 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 2.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.645460 0.000000	</row2>
+						<row3>	0.000329 0.461923 -0.208778 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Rangefinder	</node>
-		<geometry>
-			<vertices>	RangefinderShape.vertices	</vertices>
-			<primitive>	RangefinderShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_finder	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.348802 -0.000040 -0.218766	</min>
+		<max>	0.348802 0.491492 0.178022	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	RangefinderShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Rangefinder	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_finder	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Rangefinder_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Rangefinder	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_finder	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Rangefinder_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Rangefinder	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_finder	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Rangefinder_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Rangefinder	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_finder	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/finder/JF050_Rangefinder_10m.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	RangefinderShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	8.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Rangefinder_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	12.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Rangefinder_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	100.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Rangefinder_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JF050_Rangefinder_10m.visual>

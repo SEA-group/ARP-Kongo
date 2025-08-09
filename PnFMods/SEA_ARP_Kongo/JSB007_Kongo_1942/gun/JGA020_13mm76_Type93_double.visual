@@ -1,65 +1,133 @@
 <JGA020_13mm76_Type93_double.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Type93	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_gunFire1	</identifier>
+					<transform>
+						<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+						<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+						<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.005135 0.086421 0.075201 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFire2	</identifier>
+					<transform>
+						<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+						<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+						<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+						<row3>	-0.005185 0.086437 0.075194 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFireEffect	</identifier>
+					<transform>
+						<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
+						<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
+						<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
+						<row3>	-0.000109 0.086421 0.075201 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.030629 -0.000100 -0.045741	</min>
 		<max>	0.022932 0.087990 0.076113	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Type93	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_gunFire1	</identifier>
-				<transform>
-					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
-					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
-					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.005135 0.086421 0.075201 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFire2	</identifier>
-				<transform>
-					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
-					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
-					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
-					<row3>	-0.005185 0.086437 0.075194 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFireEffect	</identifier>
-				<transform>
-					<row0>	0.999999 -0.001562 0.000708 0.000000	</row0>
-					<row1>	0.001706 0.866024 -0.500000 0.000000	</row1>
-					<row2>	0.000168 0.500000 0.866025 0.000000	</row2>
-					<row3>	-0.000109 0.086421 0.075201 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Type93	</node>
-		<geometry>
-			<vertices>	Type93Shape.vertices	</vertices>
-			<primitive>	Type93Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	Type93Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Type93	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Type93_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Type93	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Type93_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Type93	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Type93_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Type93	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_ARP_Kongo/JSB007_Kongo_1942/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Type93Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	4.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Type93_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	6.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Type93_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	20.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Type93_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JGA020_13mm76_Type93_double.visual>
